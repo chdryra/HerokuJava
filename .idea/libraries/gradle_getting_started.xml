@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-getting-started">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/gradle-getting-started.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

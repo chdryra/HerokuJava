@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/netty-transport-4.1.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/jackson-core-2.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/snakeyaml-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/jackson-datatype-jsr310-2.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/netty-resolver-4.1.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/slf4j-simple-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/javolution-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/jackson-databind-2.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/netty-common-4.1.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/postgresql-9.4-1201-jdbc4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/jackson-annotations-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/netty-handler-4.1.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/guice-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/groovy-all-2.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/jackson-datatype-jdk8-2.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/javassist-3.19.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/netty-buffer-4.1.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/jackson-datatype-guava-2.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/jackson-dataformat-yaml-2.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/ratpack-core-1.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/netty-transport-native-epoll-4.1.6.Final-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/ratpack-groovy-1.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/netty-codec-4.1.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/guice-multibindings-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/netty-codec-http-4.1.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/jscience-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/ratpack-guice-1.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/caffeine-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/guava-19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/heroku-jdbc-0.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/install/gradle-getting-started/lib/reactive-streams-1.0.0.final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
